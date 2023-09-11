@@ -12,7 +12,7 @@
   <a class="navbar-brand mx-auto" href="#"><h1>Fake Review System</h1></a>
 </nav>
  <div class="alert alert-light" role="alert">
-  Review My <a href="index4.php" class="alert-link">Click here</a>.Website
+  Review My <a href="Review_My_Website.php" class="alert-link">Click here</a>.Website
 </div>
 <div class="container text-center">
   <h2>How is my website</h2>
