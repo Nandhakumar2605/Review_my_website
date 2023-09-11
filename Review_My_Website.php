@@ -14,7 +14,7 @@
  <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light text-center">
 </nav>
 <div class="alert alert-secondary" role="alert">
- <a href="index5.php" class="alert-link">View Reviews</a>. click if you like.
+ <a href="Review_My_website_home.php" class="alert-link">View Reviews</a>. click if you like.
 </div>
 <div class="container text-center">
   <h2>How is my website</h2>
